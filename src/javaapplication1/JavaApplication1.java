@@ -1,7 +1,7 @@
 
 *
  * O primeiro programa em Java: Hello World
- * Autor: Cássio Alves
+ * Autor: Cássio Alves alterado pelo aluno2
  */
 
 // Todo programa tem um ponto de entrada: o "método" main de alguma "classe"
